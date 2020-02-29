@@ -1,4 +1,10 @@
 package com.app.dao.Match;
 
-public class MatchDao {
+import com.app.model.Match;
+
+import java.util.UUID;
+
+public interface MatchDao {
+
+    Match getMatch(UUID id);
 }
