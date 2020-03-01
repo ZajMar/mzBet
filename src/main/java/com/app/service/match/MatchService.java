@@ -1,6 +1,6 @@
 package com.app.service.match;
 
-import com.app.model.Team;
+import com.app.model.team.Team;
 
 import java.util.UUID;
 

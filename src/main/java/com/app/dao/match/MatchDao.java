@@ -1,4 +1,4 @@
-package com.app.dao.Match;
+package com.app.dao.match;
 
 import com.app.model.Match;
 
