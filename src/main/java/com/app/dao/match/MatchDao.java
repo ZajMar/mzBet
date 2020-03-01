@@ -1,6 +1,6 @@
 package com.app.dao.match;
 
-import com.app.model.Match;
+import com.app.model.match.Match;
 
 import java.util.UUID;
 
